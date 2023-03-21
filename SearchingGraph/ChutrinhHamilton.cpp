@@ -11,7 +11,7 @@ class Graph{
         void graphInit();
         void hmt(int k);
         int  getStart(){   
-             return  start;   X[j]
+             return  start;   
         }
         void setXk(int k, int v0){ 
              X[k]=v0;    
